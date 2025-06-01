@@ -1,7 +1,7 @@
 # game-with-me-
 
 
-# my-v0-project
+
 
 A modern web application built with [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com/).
 
